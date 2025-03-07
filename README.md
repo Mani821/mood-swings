@@ -1,16 +1,14 @@
-# mood_swings
+# MoodSwings
 
-A new Flutter project.
+An interactive Flutter animation showcasing fluid emotion transitions with custom eye and mouth animations.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Smooth gradient transitions between emotions
+- Blinking eye animations with realistic timing
+- Dynamic facial expressions
+- Interactive slider control
 
-A few resources to get you started if this is your first Flutter project:
+Built with Flutter and love ❤️
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[Get the code →](https://github.com/Mani821/mood-swings)
